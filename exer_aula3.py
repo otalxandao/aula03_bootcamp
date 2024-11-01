@@ -9,6 +9,11 @@
 # Os dados incluem medições de temperatura. Você precisa classificar cada leitura 
 # como 'Baixa', 'Normal' ou 'Alta'. Considerando que:
 
+
+
+
+
+
 ### Exercício 3: Filtragem de Logs por Severidade
 # Você está analisando logs de uma aplicação e precisa filtrar mensagens 
 # com severidade 'ERROR'. Dado um registro de log em formato de dicionário 
